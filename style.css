@@ -4,9 +4,30 @@ body {
 	overflow: auto;
 	margin: auto auto auto auto;
 	-webkit-text-size-adjust: 100%;
-	padding-left: 4%;
+	background-color: #EEE;
 }
 
-.text1 {
-	font-size: 34px;
+.panel1 {
+	width: 80%;
+	background-color: #FFF;
+	margin-left: 6%;
+	margin-right: 6%;
+	padding-left: 4%;
+	padding-right: 4%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+@media screen and (min-width: 1000px) {
+	.text1 {
+		font-size: 34px;
+	}
+}
+
+@media screen and (max-width: 999px) {
+	.text1 {
+		font-size: 44px;
+	}
 }
