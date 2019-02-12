@@ -10,8 +10,12 @@ body {
 }
 
 a {
-	color: #2233FF;
+	color: #2266FF;
 	text-decoration: none;
+}
+
+a:hover {
+	color: #0000FF;
 }
 
 @media screen and (min-width: 1000px) {
@@ -29,11 +33,12 @@ a {
 	}
 
 	.text1 {
-		font-size: 30px;
+		font-size: 28px;
 	}
 
-	p {
-		font-size: 24px;
+	.description {
+		font-size: 18px;
+		margin-top: 2px;
 	}
 
 	li {
@@ -59,8 +64,9 @@ a {
 		font-size: 40px;
 	}
 
-	p {
-		font-size: 26px;
+	.description {
+		font-size: 28px;
+		margin-top: 6px;
 	}
 
 	li {
