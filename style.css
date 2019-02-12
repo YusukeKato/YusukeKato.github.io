@@ -23,13 +23,21 @@ body {
 
 @media screen and (min-width: 1000px) {
 	.text1 {
-		font-size: 34px;
+		font-size: 30px;
+	}
+
+	p {
+		font-size: 24px;
 	}
 }
 
 @media screen and (max-width: 999px) {
 	.text1 {
 		font-size: 44px;
+	}
+
+	p {
+		font-size: 30px;
 	}
 }
 
