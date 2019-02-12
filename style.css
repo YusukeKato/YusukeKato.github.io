@@ -1,0 +1,11 @@
+﻿@charset "utf-8";
+
+body {
+	overflow: auto;
+	margin: auto auto auto auto;
+	-webkit-text-size-adjust: 100%;
+}
+
+.text1 {
+	font-size: 24px;
+}
