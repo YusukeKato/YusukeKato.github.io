@@ -24,6 +24,33 @@ https://YusukeKato.github.io
 
 ## 2022
 
+### 円周率シェル芸
+
+```sh
+python -c "
+from decimal import Decimal as D
+from decimal import *
+getcontext().prec=999
+a=D(1)
+b=D(1)/D(2).sqrt()
+t=D(0.25)
+p=D(1)
+for i in range(999):
+ e=(a+b)/D(2);f=(a*b).sqrt();g=t-p*(a-e)**2;h=D(2)*p;a=e;b=f;t=g;p=h
+print((a+b)**2/(D(4)*t))" | cowsay | textimg -s
+```
+
+![](./Images/2022_0001.png)
+
+## 2016
+
+### チェス
+
+- ターミナル上で遊べるチェス
+- C言語
+
+![](./Images/2016_0001.png)
+
 ## 2015
 
 ### 初めて作成したゲーム
