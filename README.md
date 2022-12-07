@@ -1,5 +1,5 @@
 ﻿# YusukeKato.github.io
-YKpages matome
-
-
 https://YusukeKato.github.io
+
+# ポートフォリオ
+加藤祐介のポートフォリオです。
