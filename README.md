@@ -7,6 +7,7 @@ https://YusukeKato.github.io
 - 名前：加藤祐介
 - 大学：千葉工業大学（工学部）卒業
 - 好きなもの：ロボット、ゲーム、小説など
+- 趣味：小説執筆、競技プログラミング
 
 # Links
 
@@ -26,6 +27,8 @@ https://YusukeKato.github.io
 
 ### 円周率シェル芸
 
+[シェル芸のトップページ](https://b.ueda.tech/?page=01434)
+
 ```sh
 python -c "
 from decimal import Decimal as D
@@ -41,6 +44,16 @@ print((a+b)**2/(D(4)*t))" | cowsay | textimg -s
 ```
 
 ![](./Images/2022_0001.png)
+
+### 四角回転シェル芸
+
+[シェル芸のトップページ](https://b.ueda.tech/?page=01434)
+
+```sh
+convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x200 xc:#FF0000 -rotate -$((i*10)) i$i.png; convert b.png i$i.png -gravity northeast -composite o$i.png; done; convert -layers optimize -loop 0 -delay 10 /o*.png /images/a.gif
+```
+
+![](./Images/2022_0001.gif)
 
 ## 2016
 
