@@ -64,6 +64,8 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2016_0001.png)
 
+[GitHub : ソースコード](https://github.com/YusukeKato/chess_robot)
+
 ## 2015
 
 ### 初めて作成したゲーム
@@ -73,4 +75,4 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2015_0001.png)
 
-[YouTube](https://youtu.be/X-wTG_04Z1w)
+[YouTube : 動画](https://youtu.be/X-wTG_04Z1w)
