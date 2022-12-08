@@ -19,7 +19,7 @@ https://YusukeKato.github.io
 - [カクヨム : yusuke_kato](https://kakuyomu.jp/users/yusuke_kato)
 - [AtCoder : yusuke_kato](https://atcoder.jp/users/yusuke_kato)
 - [競技プログラミングの痕跡](https://github.com/YusukeKato/ProgrammingContest)
-- [日記](https://github.com/YusukeKato/YusukeKato.github.io/tree/main/diary)
+- [日記](https://yusukekato.github.io/Diary/)
 
 # Portfolio
 
