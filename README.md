@@ -59,6 +59,15 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ## 2016
 
+### 木製ライントレーサー
+
+- 三人で開発（私はソフトウェア担当）
+- C言語、Arduino
+
+![](./Images/2016_0003.jpg)
+
+![](./Images/2016_0004.jpg)
+
 ### ロボットハンド
 
 - 設計と加工の授業にて製作
