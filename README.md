@@ -57,6 +57,31 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2022_0001.gif)
 
+## 2021
+
+### 休養
+
+- 体調を崩したので長期休養
+- 小説執筆など
+
+## 2020
+
+### ROBOMECH2020
+
+- ポスター発表
+- 加藤祐介, 上田隆一: ARツールを用いたオドメトリのキャリブレーションシステムにおけるマーカのズレ量の計測法, ROBOMECH, A1-L03, 2020.
+- [上田先生のツイート](https://twitter.com/ryuichiueda/status/1265821330210844672?s=20&t=R7OWe-eFsEOo5R7ZXSyC4A)
+
+## 2019
+
+### 押印ロボット
+
+- 四人で開発（私は画像作成担当）
+- ROS, Twitter API
+- [詳細情報](https://kuwamai.github.io/2019/12/15/hanko_robot.html)
+
+![](./Images/2019_0001.jpg)
+
 ## 2016
 
 ### 木製ライントレーサー
