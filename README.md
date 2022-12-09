@@ -59,10 +59,9 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ## 2021
 
-### 休養
+### 小説執筆
 
-- 体調を崩したので長期休養
-- 小説執筆など
+- [作品](https://kakuyomu.jp/works/16817139555084509589)
 
 ## 2020
 
@@ -74,6 +73,21 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ## 2019
 
+### ROBOMECH2019
+
+- ポスター発表
+- 加藤祐介, 上田隆一: ARツールを用いたオドメトリのキャリブレーションシステム, ROBOMECH, 1A1-Q04, 2019.
+
+### ARを用いたロボットのキャリブレーション
+
+- ロボットの移動経路を計測してモータの出力を調整
+- Unity, ROS
+- [動画](https://youtu.be/QYnU6PeEx8s)
+- [GitHub(ROS)](https://github.com/YusukeKato/raspimouse_odometory_tuning_ros)
+- [GitHub(Unity)](https://github.com/YusukeKato/raspimouse_odometry_tuning_unity)
+
+![](./Images/2019_0004.gif)
+
 ### 押印ロボット
 
 - 四人で開発（私は画像作成担当）
@@ -81,6 +95,40 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 - [詳細情報](https://kuwamai.github.io/2019/12/15/hanko_robot.html)
 
 ![](./Images/2019_0001.jpg)
+
+### ゲーム『オシャレなロケット』
+
+- 開発途中のゲーム
+- Unity(C#)
+
+![](./Images/2019_0002.png)
+
+![](./Images/2019_0003.png)
+
+## 2018
+
+### ROBOMECH2018
+
+- ポスター発表
+- 加藤祐介, 上田隆一, 中川友紀子: 拡張現実を用いたロボットの距離センサ検査システム, ROBOMECH, 2P2-l13, 2018.
+
+### ARを用いた距離センサの検査
+
+- センサ値を可視化して検査を効率化
+- Unity, ROS
+- [動画](https://youtu.be/CPMrsBE1d30)
+
+![](./Images/2018_0001.png)
+
+### テレプレゼンスロボット
+
+- ロボットの目線で操縦
+- Unity, ROS
+- [動画](https://youtu.be/46ishQiM4o0)
+
+![](./Images/2018_0002.png)
+
+## 2017
 
 ## 2016
 
