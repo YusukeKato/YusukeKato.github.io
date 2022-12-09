@@ -23,9 +23,9 @@ https://YusukeKato.github.io
 
 # Portfolio
 
-## 2022
+# 2022
 
-### 円周率シェル芸
+## 円周率シェル芸
 
 - [シェル芸のトップページ](https://b.ueda.tech/?page=01434)
 - [ツイートのリンク](https://twitter.com/y_kato222/status/1598610852621750272)
@@ -46,7 +46,7 @@ print((a+b)**2/(D(4)*t))" | cowsay | textimg -s
 
 ![](./Images/2022_0001.png)
 
-### 四角回転シェル芸
+## 四角回転シェル芸
 
 - [シェル芸のトップページ](https://b.ueda.tech/?page=01434)
 - [ツイートのリンク](https://twitter.com/y_kato222/status/1598470274797948928)
@@ -57,28 +57,28 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2022_0001.gif)
 
-## 2021
+# 2021
 
-### 小説執筆
+## 小説執筆
 
 - [作品](https://kakuyomu.jp/works/16817139555084509589)
 
-## 2020
+# 2020
 
-### ROBOMECH2020
+## ROBOMECH2020
 
 - ポスター発表
 - 加藤祐介, 上田隆一: ARツールを用いたオドメトリのキャリブレーションシステムにおけるマーカのズレ量の計測法, ROBOMECH, A1-L03, 2020.
 - [上田先生のツイート](https://twitter.com/ryuichiueda/status/1265821330210844672?s=20&t=R7OWe-eFsEOo5R7ZXSyC4A)
 
-## 2019
+# 2019
 
-### ROBOMECH2019
+## ROBOMECH2019
 
 - ポスター発表
 - 加藤祐介, 上田隆一: ARツールを用いたオドメトリのキャリブレーションシステム, ROBOMECH, 1A1-Q04, 2019.
 
-### ARを用いたロボットのキャリブレーション
+## ARを用いたロボットのキャリブレーション
 
 - ロボットの移動経路を計測してモータの出力を調整
 - Unity, ROS
@@ -88,7 +88,7 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2019_0004.gif)
 
-### 押印ロボット
+## 押印ロボット
 
 - 四人で開発（私は画像作成担当）
 - ROS, Twitter API
@@ -96,7 +96,7 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2019_0001.jpg)
 
-### ゲーム『オシャレなロケット』
+## ゲーム『オシャレなロケット』
 
 - 開発途中のゲーム
 - Unity(C#)
@@ -105,14 +105,14 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2019_0003.png)
 
-## 2018
+# 2018
 
-### ROBOMECH2018
+## ROBOMECH2018
 
 - ポスター発表
 - 加藤祐介, 上田隆一, 中川友紀子: 拡張現実を用いたロボットの距離センサ検査システム, ROBOMECH, 2P2-l13, 2018.
 
-### ARを用いた距離センサの検査
+## ARを用いた距離センサの検査
 
 - センサ値を可視化して検査を効率化
 - Unity, ROS
@@ -120,7 +120,7 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2018_0001.png)
 
-### テレプレゼンスロボット
+## テレプレゼンスロボット
 
 - ロボットの目線で操縦
 - Unity, ROS
@@ -128,11 +128,11 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2018_0002.png)
 
-## 2017
+# 2017
 
-## 2016
+# 2016
 
-### 木製ライントレーサー
+## 木製ライントレーサー
 
 - 三人で開発（私はソフトウェア担当）
 - C言語、Arduino
@@ -141,7 +141,7 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2016_0004.jpg)
 
-### ロボットハンド
+## ロボットハンド
 
 - 設計と加工の授業にて製作
 - Inventorと加工機
@@ -149,7 +149,7 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2016_0002.jpg)
 
-### チェス
+## チェス
 
 - ターミナル上で遊べるチェス
 - C言語
@@ -157,9 +157,9 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2016_0001.png)
 
-## 2015
+# 2015
 
-### 初めて作成したゲーム
+## 初めて作成したゲーム
 
 - 青いネズミを操作して迷路から脱出
 - C言語とOpenGLで作成
