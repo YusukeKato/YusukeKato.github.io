@@ -1,8 +1,8 @@
 ﻿# Yusuke Kato Pages
 
-- https://YusukeKato.github.io
-- https://YKpages.github.io
-- https://yusukekato.net
+- [YKpages.github.io](https://YKpages.github.io/)
+- [YusukeKato.github.io](https://YusukeKato.github.io/)
+- [yusukekato.net](https://yusukekato.net/)
 
 # About
 
