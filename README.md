@@ -137,7 +137,64 @@ convert -size 283x283 xc:#FF0000 b.png; for i in {0..8}; do convert -size 200x20
 
 ![](./Images/2018_0002.png)
 
+## VRChatで遊んだ記録
+
+- VRChat, Unity
+- 雷を仕込んだアバター
+- [動画](https://youtu.be/ZggYYXEGnBg)
+
+![](./Images/2018_0003.png)
+
 # 2017
+
+## Boid
+
+- 生物の動き
+- Unity
+- [動画](https://youtu.be/gfiavL8kcEk)
+
+![](./Images/2017_0001.gif)
+
+## Life Game Tower
+
+- ライブゲームを縦に積み重ねてみたもの
+- Unity
+- [動画](https://youtu.be/gfiavL8kcEk)
+
+![](./Images/2017_0002.png)
+
+## 巡回セールスマン問題
+
+- 勉強の記録
+- モンテカルロ法と焼きなまし法
+- [GitHub](https://github.com/YusukeKato/DataScience/blob/master/StatisticalMechanics/TravelingSalesmanProblem2.ipynb)
+
+![](./Images/2017_0005.png)
+
+## ROSでオンラインゲーム
+
+- 対戦型のピンポンゲーム
+- ROS
+- [動画](https://youtu.be/ooVxHlUM3bM)
+- [GitHub](https://github.com/YusukeKato/robosys_ros)
+
+![](./Images/2017_0003.png)
+
+## LEDゲーム
+
+- デバイスドライバの勉強
+- [動画](https://youtu.be/QpOxeusD_wU)
+- [GitHub](https://github.com/YusukeKato/robsys_device_driver)
+
+![](./Images/2017_0004.png)
+
+## 株価予測
+
+- 機械学習の勉強
+- Python, scikit-learn
+- [GitHub](https://github.com/YusukeKato/my-scikit-learn/blob/master/Kabuka-predict-machine-learning-2.ipynb)
+
+![](./Images/2017_0006.png)
 
 # 2016
 
