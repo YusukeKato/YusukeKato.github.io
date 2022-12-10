@@ -26,7 +26,7 @@ https://YusukeKato.github.io
 
 # 2022
 
-## p5.jsをNEORTに公開
+## p5.jsの作品をNEORTに公開
 
 - p5.js(JavaScript)
 - [NEORTリンク](https://neort.io/art/ce9v6q4n70rvflp1dsbg)
