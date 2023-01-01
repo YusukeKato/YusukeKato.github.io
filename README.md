@@ -1,9 +1,11 @@
 ﻿# Yusuke Kato Pages
 
-- [YKpages.github.io](https://YKpages.github.io/)
 - [YusukeKato.github.io](https://YusukeKato.github.io/)
+- [YKpages.github.io](https://YKpages.github.io/)
 - [yusukekato.net](https://yusukekato.net/)
 - [harunachan.com](https://harunachan.com/)
+- [kato.wiki](https://kato.wiki/)
+- [shellgei.kato.wiki](https://shellgei.kato.wiki/)
 
 # About
 
@@ -19,6 +21,7 @@
 - [YouTube : ykato](https://www.youtube.com/channel/UC4TaLIvjTNPjPys2AZjP3Rw)
 - [HatenaBlog : YKpages](https://kato-robotics.hatenablog.com/)
 - [Qiita : ykpages](https://qiita.com/ykpages)
+- [Zenn : yusukekato](https://zenn.dev/yusukekato)
 - [NEORT : Kato](https://neort.io/sF58ItZWNXWZbivWXLnEKkuYIo83)
 - [カクヨム : yusuke_kato](https://kakuyomu.jp/users/yusuke_kato)
 - [AtCoder : yusuke_kato](https://atcoder.jp/users/yusuke_kato)
